@@ -116,3 +116,5 @@ btkvf.o: sentences/btkvf.c
 	$(CC) -c $<
 swof44.o: sentences/swof44.c
 	$(CC) -c $<
+hlv68.o: sentences/hlv68.c
+	$(CC) -c $<
