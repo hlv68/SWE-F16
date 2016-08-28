@@ -70,6 +70,8 @@ int main( void )
 	kienanSentence1();
 	kienanSentence2();
     
+    	hlv68Sentence1();
+    	hlv68Sentence2();
 
 	WXLSentence1();
 	WXLSentence2();
