@@ -75,8 +75,8 @@ int jry83Sentence2();
 int kcfk28_sentence1();
 int kcfk28_sentence2();
 
-int hlv68_sentence1();
-inthlv68_sentence2();
+int hlv68Sentence1();
+int hlv68Sentence_FINAL();
 
 int KurtsSentence1();
 int KurtsSentence_FINAL();
