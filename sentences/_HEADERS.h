@@ -82,8 +82,14 @@ int kcfk28_sentence1();
 int kcfk28_sentence2();
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 int hlv68Sentence1();
 int hlv68Sentence2();
+=======
+
+int xlv4cSentence1();
+int xlv4cSentence2();
+>>>>>>> SociallyCompute/master
 =======
 
 int xlv4cSentence1();
@@ -99,7 +105,10 @@ void btkvfSentence2();
 int jdhcp3Sentence1();
 int jdhcp3Sentence2();
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> SociallyCompute/master
 
 int mrkgh6sentence1();
 int mrkgh6sentence2();
@@ -148,4 +157,7 @@ int pkpdmbSentence2();
 
 int ztbc68Sentence1();
 int ztbc68Sentence2();
+<<<<<<< HEAD
+>>>>>>> SociallyCompute/master
+=======
 >>>>>>> SociallyCompute/master

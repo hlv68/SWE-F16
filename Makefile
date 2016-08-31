@@ -117,8 +117,11 @@ btkvf.o: sentences/btkvf.c
 swof44.o: sentences/swof44.c
 	$(CC) -c $<
 <<<<<<< HEAD
+<<<<<<< HEAD
 hlv68.o: sentences/hlv68.c
 =======
+=======
+>>>>>>> SociallyCompute/master
 mrkgh6.o: sentences/mrkgh6.c
 	$(CC) -c $<
 
@@ -153,5 +156,8 @@ jbiyt3.o: sentences/jbiyt3.c
 pkpdmb.o: sentences/pkpdmb.c
 	$(CC) -c $<
 ztbc68.o: sentences/ztbc68.c
+<<<<<<< HEAD
+>>>>>>> SociallyCompute/master
+=======
 >>>>>>> SociallyCompute/master
 	$(CC) -c $<

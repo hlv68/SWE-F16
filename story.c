@@ -76,9 +76,13 @@ int main(void)
 	kienanSentence1();
 	kienanSentence2();
 <<<<<<< HEAD
+<<<<<<< HEAD
     
     	hlv68Sentence1();
     	hlv68Sentence2();
+=======
+
+>>>>>>> SociallyCompute/master
 =======
 
 >>>>>>> SociallyCompute/master
